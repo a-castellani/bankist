@@ -4,4 +4,4 @@ I created it after following 'The Complete JavaScript Course: From Zero to Exper
 
 Copyright by Jonas Schmedtmann
 
-https://twitter.com/jonasschmedtman"
+https://twitter.com/jonasschmedtman
